@@ -1,0 +1,18 @@
+thead{
+	background-color: #808080; color: white;
+}
+tr:nth-child(even){
+	background-color: #FFE4B5
+}
+h2{
+	background-color: #AB996E
+}
+h1{
+	background-color: #AB7732
+}
+#no_data{
+	background-color: #485E82	
+}
+#form{
+	background-color: #DCDCDC
+}
